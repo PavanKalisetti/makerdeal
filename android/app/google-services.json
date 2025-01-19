@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562847557567",
+    "project_id": "makerdeal-8251e",
+    "storage_bucket": "makerdeal-8251e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562847557567:android:5806b258667df51315230a",
+        "android_client_info": {
+          "package_name": "com.makerdeal.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562847557567-6cbn6n9hmnlepjjvk4kj8h1cdggg5eoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makerdeal.customer",
+            "certificate_hash": "78adec59bea731d5b4ddcf7b5896b5509c580946"
+          }
+        },
+        {
+          "client_id": "562847557567-ifnkrpc6249eitu8ehmt24kqv2kv9966.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABXvRi_aE9jSjSFaEicmPvFqlQVhsg9DM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562847557567-ifnkrpc6249eitu8ehmt24kqv2kv9966.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
